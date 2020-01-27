@@ -1,9 +1,16 @@
+body {
+  background: #5555dd;
+}
+
 .container {
   min-height: 100vh;
+  color: orange;
 }
 
 .list-group-item {
   cursor: pointer;
+  color: #5555dd;
+  font-weight: bold;
 }
 
 .completed li {
